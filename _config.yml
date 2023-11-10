@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sai's Homepage"
 title_separator          : "-"
 name                     : &name "Sai Datta Mikkilineni"
-description              : &description "personal description"
+description              : &description "Sai Datta Mikkilineni's website"
 url                      : https://s-mikkilineni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s-mikkilineni.github.io"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sdm96/"
+  linkedin         : "/sdm96/"
   orcid            : "https://orcid.org/0000-0003-4095-2180"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Iam_SDatta"
   vine             :
   weibo            :
   xing             :

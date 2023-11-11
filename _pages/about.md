@@ -25,4 +25,4 @@ A sample of my current projects: (_1_) exploring the impact of social presence o
 
 I'm a social scientist, primarily employing online/offline experiments, surveys, and psychophysiological methods (e.g., GSR, EEG). 
 
-When I'm not working, I mostly spend time playing _DOTA2_ or _CS2_. I can be reached at smikkilineni[at]crimson[dot]ua[dot]edu 
+When I'm not working, I mostly spend time playing _DOTA2_ or _CS2/CSGO_. I can be reached at smikkilineni[at]crimson[dot]ua[dot]edu 

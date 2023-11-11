@@ -22,7 +22,8 @@ author_profile: true
 [2] Cranmer, G. A., Boatwright, B., **Mikkilineni, S.**, & Fontana, J. (2021). Everyone hates the NCAA: The role of identity in the evaluations of amateurism transgressions: A case study of the Chase Young’s loan scandal. _Communication & Sport_. ​[https://doi.org/10.1177/21674795211009162](https://journals.sagepub.com/doi/abs/10.1177/21674795211009162)
 
 [1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). Communication for the win: Task benefits of coach confirmation in collegiate athletics. _Communication Quarterly_. https://doi.org/10.1080/01463373.2020.1850491
-                                                                     
+
+                                                _____________________________________________________
 **Works Under Review**
 
 [2] **Mikkilineni, M.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at New Media & Society 

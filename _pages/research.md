@@ -7,13 +7,13 @@ author_profile: true
 
 **Peer-Reviewed Journal Articles**
 
+8. Billings, A. C., & Mikkilineni, S. (2023). The next best thing: How media dependency and uses and gratifications inform esport fandom during the COVID-19 pandemic. _American Behavioral Scientist 67_(10). [https://doi.org/10.1177/00027642221118277](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10350578/)
+
 8. Mikkilineni, S., Billings, A. C., Brown, K., & Vegas, X. R. (2023). The role of team and social identity in parasocial relationships and parasocial breakups: Lionel Messi’s departure from FC Barcelona. International Journal of Communication. ​[Link]
 
 7. Ash, E., Xu, Y., Pool, R., Schulenberg, K., Mikkilineni, S., Baraka, T. (2023). Exemplification effects on policy support: Exemplar familiarity, narrative vividness, and perceptions of maternal health disparities. Health Communication.  (https://doi.org/10.1080/10410236.2023.2200907)
 
 6. Mikkilineni, S., Cranmer, G. A., Ash, E., & Denham, B. (2023). Collegiate student-athletes as health advocates: The role of issue and source involvement in students' information processing about binge drinking. Communication & Sport. (https://doi.org/10.1177/21674795231153013)
-
-5. Billings, A. C., & Mikkilineni, S. (2022). The next best thing: How media dependency and uses and gratifications inform esport fandom during the COVID-19 pandemic. American Behavioral Scientist. (https://doi.org/10.1177/00027642221118277)
 
 4. Ash, E., Schulenberg, K., Wilson, M., & Mikkilineni, S. (2023). Framing risk and responsibility: Newspaper coverage of COVID-19 racial disparities. Newspaper Research Journal.
 

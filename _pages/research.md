@@ -23,7 +23,8 @@ author_profile: true
 
 [1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). Communication for the win: Task benefits of coach confirmation in collegiate athletics. _Communication Quarterly_. https://doi.org/10.1080/01463373.2020.1850491
 
-                                                _____________________________________________________
+                                                ======================================================
+
 **Works Under Review**
 
 [2] **Mikkilineni, M.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at New Media & Society 

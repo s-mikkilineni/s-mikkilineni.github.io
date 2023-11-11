@@ -23,6 +23,7 @@ author_profile: true
 
 [1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). Communication for the win: Task benefits of coach confirmation in collegiate athletics. _Communication Quarterly_. https://doi.org/10.1080/01463373.2020.1850491
 
+                                                                                 --------------------------------------------
 **Works Under Review**
 
 [2] **Mikkilineni, M.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at New Media & Society 
@@ -35,48 +36,50 @@ author_profile: true
 
 1. Cranmer, G. A., Rey. K., & **Mikkilineni, S.** (2022). Coach-athlete communication and implications for health. In J. Sanderson & M. Weathers (Eds.), _Health Communication and Sport: Connections, Applications, and Opportunities_. Rowman & Littlefield.
 
+                                                                                  --------------------------------------------
+   
 **Research in Progress**
                                  
-  6. **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.                                  
-5. Lee, J., **Mikkilineni, S.,** & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [data collection stage]
+[6] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.                                  
+[5] Lee, J., **Mikkilineni, S.,** & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [data collection stage]
 
-4. Lee, J., & **Mikkilineni, S.** Are deepfakes more powerful in the metaverse? The role of social presence on deepfake processing. [manuscript writing stage]
+[4] Lee, J., & **Mikkilineni, S.** Are deepfakes more powerful in the metaverse? The role of social presence on deepfake processing. [manuscript writing stage]
 
-3. **​Mikkilineni, S.** & Huang, M. What makes an Artificial Intelligence-Influencer persuasive? Effect of relational characteristics and influencer attributes on the perceptions of credibility and authenticity [manuscript writing stage]
+[3] **​Mikkilineni, S.** & Huang, M. What makes an Artificial Intelligence-Influencer persuasive? Effect of relational characteristics and influencer attributes on the perceptions of credibility and authenticity [manuscript writing stage]
 
-2. **Mikkilineni, S.** Does virtual reality increase cognitive elaboration? Examining the role of virtual reality in shaping political behaviour. [proposal stage]
+[2] **Mikkilineni, S.** Does virtual reality increase cognitive elaboration? Examining the role of virtual reality in shaping political behaviour. [proposal stage]
 
-1. **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi- dimensional constructs of presence and empathy. [proposal stage]
+[1] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi- dimensional constructs of presence and empathy. [proposal stage]
 
 **Peer-Reviewed Conference Presentations**
-15. Kim, J., & **Mikkilineni, S.**(Under review). [TITLE BLINDED]. Paper submitted to the annual conference of the American Association of Advertising, Portland, OR.
+[15] Kim, J., & **Mikkilineni, S.**(Under review). [TITLE BLINDED]. Paper submitted to the annual conference of the American Association of Advertising, Portland, OR.
 
-14. **Mikkilineni, S.**,* Huang, M.,*  Lee, J., & Duboise, M. (2023). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the Association for Education in Journalism & Mass Communication, Washington, DC.
+[14] **Mikkilineni, S.**,* Huang, M.,*  Lee, J., & Duboise, M. (2023). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the Association for Education in Journalism & Mass Communication, Washington, DC.
 
-13. **Mikkilineni, S.**, & Ki, E.J. (2023) [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the Association for Education in Journalism & Mass Communication, Washington, DC.
+[13] **Mikkilineni, S.**, & Ki, E.J. (2023) [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the Association for Education in Journalism & Mass Communication, Washington, DC.
 
-12. Hoewe, J., Jackson, D., **Mikkilineni, S.**, Baldawala, C., & Ewoldsen, D. (2023). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the International Communication Association, Toronto, Canada.
+[12] Hoewe, J., Jackson, D., **Mikkilineni, S.**, Baldawala, C., & Ewoldsen, D. (2023). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the International Communication Association, Toronto, Canada.
 
-11. Kim, J., **Mikkilineni, S.**, Huang, M. (2023). _Integrating VR into tourism marketing: The effects of immersion and temporal distance on destination image_. Paper presented at the annual conference of the American Academy of Advertising, Denver, CO. 
+[11] Kim, J., **Mikkilineni, S.**, Huang, M. (2023). _Integrating VR into tourism marketing: The effects of immersion and temporal distance on destination image_. Paper presented at the annual conference of the American Academy of Advertising, Denver, CO. 
 
-10. Boatwright, B. C., Harrison, V., Morehouse, J., & **Mikkilineni, S.** (2022). _Exploring fan responses to ACC football programs' social advocacy: Using social network analysis and topic modelling to better understand the Twitter conversation_. Paper presented at the annual conference of the National Communication Association, New Orleans, LA. [Top Paper Panel]
+[10] Boatwright, B. C., Harrison, V., Morehouse, J., & **Mikkilineni, S.** (2022). _Exploring fan responses to ACC football programs' social advocacy: Using social network analysis and topic modelling to better understand the Twitter conversation_. Paper presented at the annual conference of the National Communication Association, New Orleans, LA. [Top Paper Panel]
 
-9. Billings, A. C., & **Mikkilineni, S.** (2022). _The next best thing: Pandemic-induced sports fan migration from traditional to esport streaming platforms_. Paper presented at the annual conference of the National Communication Association, New Orleans, LA.
+[9] Billings, A. C., & **Mikkilineni, S.** (2022). _The next best thing: Pandemic-induced sports fan migration from traditional to esport streaming platforms_. Paper presented at the annual conference of the National Communication Association, New Orleans, LA.
 
-8. **Mikkilineni, S.**, Billings, A. C., Brown, K., & Vegas, X. R. (2022). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the National Communication Association, New Orleans, LA.
+[8] **Mikkilineni, S.**, Billings, A. C., Brown, K., & Vegas, X. R. (2022). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the National Communication Association, New Orleans, LA.
 
-7. **Mikkilineni, S.**, Cranmer, G. A., Ash, E., & Denham, B. (2022). _Athletes as health advocates: Role of issue involvement and source involvement in information processing_. Paper presented at the annual conference of the International Communication Association, Paris, FR.
+[7] **Mikkilineni, S.**, Cranmer, G. A., Ash, E., & Denham, B. (2022). _Athletes as health advocates: Role of issue involvement and source involvement in information processing_. Paper presented at the annual conference of the International Communication Association, Paris, FR.
 
-6. Lewis, N., **Mikkilineni, S.**, & Brown, K. (2022). _Distinct modes of league and political identification predict moral outrage toward the NBA after sponsoring Black Lives Matter_. Paper presented at the annual conference of the Midwestern Psychological Association, Chicago, IL.
+[6] Lewis, N., **Mikkilineni, S.**, & Brown, K. (2022). _Distinct modes of league and political identification predict moral outrage toward the NBA after sponsoring Black Lives Matter_. Paper presented at the annual conference of the Midwestern Psychological Association, Chicago, IL.
 
-5. Linvill, D. L., Henderson, W. J., & **Mikkilineni, S.** (2021). _Divisive social movement on social media: Examining #ADOS_. Paper presented at the annual conference of the National Communication Association, Seattle, WA.  
+[5] Linvill, D. L., Henderson, W. J., & **Mikkilineni, S.** (2021). _Divisive social movement on social media: Examining #ADOS_. Paper presented at the annual conference of the National Communication Association, Seattle, WA.  
 
-4. Cranmer, G. A., Boatwright, B., **Mikkilineni, S.**, & Fontana, J. (2021). E_veryone hates the NCAA: The role of identity in the evaluations of amateurism transgressions: A case study of the Chase Young’s loan scandal_. Paper presented at the annual conference of the National Communication Association, Seattle, WA. [Top Paper Panel]
+[4] Cranmer, G. A., Boatwright, B., **Mikkilineni, S.**, & Fontana, J. (2021). _Everyone hates the NCAA: The role of identity in the evaluations of amateurism transgressions: A case study of the Chase Young’s loan scandal_. Paper presented at the annual conference of the National Communication Association, Seattle, WA. [Top Paper Panel]
 
-3. Baraka, T., Ash, E., Schulenberg, K., **Mikkilineni, S.**, Wilson, M., Sierra-Rivera, J., & Pool, R. (2021). _Exemplification effects on policy support: Exemplar liking, narrative vividness, and perceptions of maternal health disparities_. Paper presented at the annual conference of the International Communication Association. [Online due to COVID-19]
+[3] Baraka, T., Ash, E., Schulenberg, K., **Mikkilineni, S.**, Wilson, M., Sierra-Rivera, J., & Pool, R. (2021). _Exemplification effects on policy support: Exemplar liking, narrative vividness, and perceptions of maternal health disparities_. Paper presented at the annual conference of the International Communication Association. [Online due to COVID-19]
 
-2. Ash, E., Schulenberg, K., Wilson, M., & **Mikkilineni, S.** (2021). _Framing risk and responsibility: Newspaper coverage of COVID-19 racial disparities_. Paper presented at the annual conference of the International Communication Association. [Online due to COVID-19]
+[2] Ash, E., Schulenberg, K., Wilson, M., & **Mikkilineni, S.** (2021). _Framing risk and responsibility: Newspaper coverage of COVID-19 racial disparities_. Paper presented at the annual conference of the International Communication Association. [Online due to COVID-19]
 ​
-1. Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). _Communication for the win: Task benefits of coach confirmation in collegiate athletics_. Paper presented at the annual conference of the National Communication Association. [Online due to COVID-19]
+[1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). _Communication for the win: Task benefits of coach confirmation in collegiate athletics_. Paper presented at the annual conference of the National Communication Association. [Online due to COVID-19]
 
 

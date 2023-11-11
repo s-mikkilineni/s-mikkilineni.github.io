@@ -31,9 +31,9 @@ author_profile: true
 
 **Book Chapters**
 
-2. Lee, J., **Mikkilineni, S.**, & Lee, E. (under review). Emerging media, emotions, and misperceptions in health crises. In K. Wright (Ed.), _Communicating About Science During Crisis Events in the Age of Social Media and Misinformation: Identifying, Analyzing, and Correcting Misinformation_. Wiley.
+[2] Lee, J., **Mikkilineni, S.**, & Lee, E. (under review). Emerging media, emotions, and misperceptions in health crises. In K. Wright (Ed.), _Communicating About Science During Crisis Events in the Age of Social Media and Misinformation: Identifying, Analyzing, and Correcting Misinformation_. Wiley.
 
-1. Cranmer, G. A., Rey. K., & **Mikkilineni, S.** (2022). Coach-athlete communication and implications for health. In J. Sanderson & M. Weathers (Eds.), _Health Communication and Sport: Connections, Applications, and Opportunities_. Rowman & Littlefield.
+[1] Cranmer, G. A., Rey. K., & **Mikkilineni, S.** (2022). Coach-athlete communication and implications for health. In J. Sanderson & M. Weathers (Eds.), _Health Communication and Sport: Connections, Applications, and Opportunities_. Rowman & Littlefield.
                                                               
 **Research in Progress**
                    

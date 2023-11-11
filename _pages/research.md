@@ -5,6 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 
+
 **Peer-Reviewed Journal Articles**
 
 [8] Billings, A. C., & **Mikkilineni, S.** (2023). The next best thing: How media dependency and uses and gratifications inform esport fandom during the COVID-19 pandemic. _American Behavioral Scientist, 67_(10). [https://doi.org/10.1177/00027642221118277](https://journals.sagepub.com/doi/10.1177/00027642221118277)
@@ -23,17 +24,20 @@ author_profile: true
 
 [1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). Communication for the win: Task benefits of coach confirmation in collegiate athletics. _Communication Quarterly_. https://doi.org/10.1080/01463373.2020.1850491
 
+
 **Works Under Review**
 
 [2] **Mikkilineni, M.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at New Media & Society 
 
 [1] Hoewe, J., Jackson, D., Mikkilineni, S., Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Revise & Resubmit at Journal of Media Psychology.
 
+
 **Book Chapters**
 
 [2] Lee, J., **Mikkilineni, S.**, & Lee, E. (under review). Emerging media, emotions, and misperceptions in health crises. In K. Wright (Ed.), _Communicating About Science During Crisis Events in the Age of Social Media and Misinformation: Identifying, Analyzing, and Correcting Misinformation_. Wiley.
 
 [1] Cranmer, G. A., Rey. K., & **Mikkilineni, S.** (2022). Coach-athlete communication and implications for health. In J. Sanderson & M. Weathers (Eds.), _Health Communication and Sport: Connections, Applications, and Opportunities_. Rowman & Littlefield.
+
                                                               
 **Research in Progress**
                    

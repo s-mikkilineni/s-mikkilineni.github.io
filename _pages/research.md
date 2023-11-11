@@ -22,8 +22,7 @@ author_profile: true
 [2] Cranmer, G. A., Boatwright, B., **Mikkilineni, S.**, & Fontana, J. (2021). Everyone hates the NCAA: The role of identity in the evaluations of amateurism transgressions: A case study of the Chase Young’s loan scandal. _Communication & Sport_. ​[https://doi.org/10.1177/21674795211009162](https://journals.sagepub.com/doi/abs/10.1177/21674795211009162)
 
 [1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). Communication for the win: Task benefits of coach confirmation in collegiate athletics. _Communication Quarterly_. https://doi.org/10.1080/01463373.2020.1850491
-
-                                                                                 --------------------------------------------
+                                                                     
 **Works Under Review**
 
 [2] **Mikkilineni, M.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at New Media & Society 
@@ -35,11 +34,9 @@ author_profile: true
 2. Lee, J., **Mikkilineni, S.**, & Lee, E. (under review). Emerging media, emotions, and misperceptions in health crises. In K. Wright (Ed.), _Communicating About Science During Crisis Events in the Age of Social Media and Misinformation: Identifying, Analyzing, and Correcting Misinformation_. Wiley.
 
 1. Cranmer, G. A., Rey. K., & **Mikkilineni, S.** (2022). Coach-athlete communication and implications for health. In J. Sanderson & M. Weathers (Eds.), _Health Communication and Sport: Connections, Applications, and Opportunities_. Rowman & Littlefield.
-
-                                                                                  --------------------------------------------
-   
+                                                              
 **Research in Progress**
-                                 
+                   
 [6] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.                                  
 [5] Lee, J., **Mikkilineni, S.,** & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [data collection stage]
 
@@ -52,6 +49,7 @@ author_profile: true
 [1] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi- dimensional constructs of presence and empathy. [proposal stage]
 
 **Peer-Reviewed Conference Presentations**
+
 [15] Kim, J., & **Mikkilineni, S.**(Under review). [TITLE BLINDED]. Paper submitted to the annual conference of the American Association of Advertising, Portland, OR.
 
 [14] **Mikkilineni, S.**,* Huang, M.,*  Lee, J., & Duboise, M. (2023). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the Association for Education in Journalism & Mass Communication, Washington, DC.

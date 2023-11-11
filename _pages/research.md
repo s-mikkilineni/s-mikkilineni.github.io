@@ -7,20 +7,19 @@ author_profile: true
 
 **Peer-Reviewed Journal Articles**
 
-8. Billings, A. C., & Mikkilineni, S. (2023). The next best thing: How media dependency and uses and gratifications inform esport fandom during the COVID-19 pandemic. _American Behavioral Scientist 67_(10). [https://doi.org/10.1177/00027642221118277](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10350578/)
+8. Billings, A. C., & Mikkilineni, S. (2023). The next best thing: How media dependency and uses and gratifications inform esport fandom during the COVID-19 pandemic. _American Behavioral Scientist 67_(10). [https://doi.org/10.1177/00027642221118277](https://journals.sagepub.com/doi/10.1177/00027642221118277)
 
-8. Mikkilineni, S., Billings, A. C., Brown, K., & Vegas, X. R. (2023). The role of team and social identity in parasocial relationships and parasocial breakups: Lionel Messi’s departure from FC Barcelona. International Journal of Communication. ​[Link]
+7. Mikkilineni, S., Billings, A. C., Brown, K., & Vegas, X. R. (2023). The role of team and social identity in parasocial relationships and parasocial breakups: Lionel Messi’s departure from FC Barcelona. International Journal of Communication. ​[Link]
 
-7. Ash, E., Xu, Y., Pool, R., Schulenberg, K., Mikkilineni, S., Baraka, T. (2023). Exemplification effects on policy support: Exemplar familiarity, narrative vividness, and perceptions of maternal health disparities. Health Communication.  (https://doi.org/10.1080/10410236.2023.2200907)
+6. Ash, E., Xu, Y., Pool, R., Schulenberg, K., Mikkilineni, S., Baraka, T. (2023). Exemplification effects on policy support: Exemplar familiarity, narrative vividness, and perceptions of maternal health disparities. Health Communication.  (https://doi.org/10.1080/10410236.2023.2200907)
 
-6. Mikkilineni, S., Cranmer, G. A., Ash, E., & Denham, B. (2023). Collegiate student-athletes as health advocates: The role of issue and source involvement in students' information processing about binge drinking. Communication & Sport. (https://doi.org/10.1177/21674795231153013)
+5. Mikkilineni, S., Cranmer, G. A., Ash, E., & Denham, B. (2023). Collegiate student-athletes as health advocates: The role of issue and source involvement in students' information processing about binge drinking. Communication & Sport. (https://doi.org/10.1177/21674795231153013)
 
 4. Ash, E., Schulenberg, K., Wilson, M., & Mikkilineni, S. (2023). Framing risk and responsibility: Newspaper coverage of COVID-19 racial disparities. Newspaper Research Journal.
 
 3. Linvill, D. L., Henderson, W. J., & Mikkilineni, S. (2021). Divisive social movement on social media: Examining #ADOS. Southern Communication Journal. (https://doi.org/10.1080/1041794X.2021.1919917)
 
-2. Cranmer, G. A., Boatwright, B., Mikkilineni, S., & Fontana, J. (2021). Everyone hates the NCAA: The role of identity in the evaluations of amateurism transgressions: A case study of the Chase Young’s loan scandal. Communication & Sport. 
-​https://doi.org/10.1177/21674795211009162
+2. Cranmer, G. A., Boatwright, B., Mikkilineni, S., & Fontana, J. (2021). Everyone hates the NCAA: The role of identity in the evaluations of amateurism transgressions: A case study of the Chase Young’s loan scandal. Communication & Sport. ​https://doi.org/10.1177/21674795211009162
 
 1. Cranmer, G. A., Ash, E., Fontana, J., & Mikkilineni, S. (2020). Communication for the win: Task benefits of coach confirmation in collegiate athletics. Communication Quarterly. https://doi.org/10.1080/01463373.2020.1850491
 

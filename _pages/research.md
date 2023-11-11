@@ -37,7 +37,8 @@ author_profile: true
                                                               
 **Research in Progress**
                    
-[6] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.                                  
+[6] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.         
+
 [5] Lee, J., **Mikkilineni, S.,** & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [data collection stage]
 
 [4] Lee, J., & **Mikkilineni, S.** Are deepfakes more powerful in the metaverse? The role of social presence on deepfake processing. [manuscript writing stage]
@@ -46,7 +47,7 @@ author_profile: true
 
 [2] **Mikkilineni, S.** Does virtual reality increase cognitive elaboration? Examining the role of virtual reality in shaping political behaviour. [proposal stage]
 
-[1] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi- dimensional constructs of presence and empathy. [proposal stage]
+[1] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi-dimensional constructs of presence and empathy. [proposal stage]
 
 **Peer-Reviewed Conference Presentations**
 

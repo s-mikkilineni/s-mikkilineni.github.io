@@ -27,9 +27,9 @@ author_profile: true
 
 **Works Under Review**
 
-[2] **Mikkilineni, S.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at New Media & Society 
+[2] **Mikkilineni, S.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at _New Media & Society_. 
 
-[1] Hoewe, J., Jackson, D., Mikkilineni, S., Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Revise & Resubmit at Journal of Media Psychology.
+[1] Hoewe, J., Jackson, D., Mikkilineni, S., Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Revise & Resubmit at _Journal of Media Psychology_.
 
 
 **Book Chapters**

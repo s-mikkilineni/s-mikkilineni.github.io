@@ -5,10 +5,11 @@ permalink: /education/
 author_profile: true
 ---
 
-Ph.D.  Communication & Info. Sciences                                      University of Alabama, _expected_ 2025
-          Advisor: Dr. Jihoon Kim
-          Specialization: Immersive Media Psychology; Human-Machine Communication
-          Quantitative Research Certificate
+Ph.D.  Communication & Info. Sciences, University of Alabama, _expected_ 2025
+
+Advisor: Dr. Jihoon Kim
+Specialization: Immersive Media Psychology; Human-Machine Communication
+Quantitative Research Certificate
 
 M.A.   Communication, Technology, & Society                                Clemson University, 2021
            Advisor: Dr. Gregory Cranmer

@@ -91,6 +91,7 @@ author_profile: true
 
 [2] Ash, E., Schulenberg, K., Wilson, M., & **Mikkilineni, S.** (2021). _Framing risk and responsibility: Newspaper coverage of COVID-19 racial disparities_. Paper presented at the annual conference of the International Communication Association. [Online due to COVID-19]
 ​
+
 [1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). _Communication for the win: Task benefits of coach confirmation in collegiate athletics_. Paper presented at the annual conference of the National Communication Association. [Online due to COVID-19]
 
 

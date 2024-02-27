@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a third-year Ph.D. student in communication in the [College of Communication & Information Sciences](https://cis.ua.edu) at [The University of Alabama](https://ua.edu). As a theoretically-driven scholar, my research examines the **psychological processes** underlying human interactions with **immersive media** (e.g., virtual/augmented reality) and **artificial intelligence** (e.g., AI chatbots/agents, algorithms). In my research, I adopt  theoretical insights from cognitive psychology, social psychology, and communication science. 
+I'm a third-year Ph.D. candidate in communication in the [College of Communication & Information Sciences](https://cis.ua.edu) at [The University of Alabama](https://ua.edu). As a theoretically-driven scholar, my research examines the **psychological processes** underlying human interactions with **immersive media** (e.g., virtual/augmented reality) and **artificial intelligence** (e.g., AI chatbots/agents, algorithms). In my research, I adopt  theoretical insights from cognitive psychology, social psychology, and communication science. 
 
 My research is interdisciplinary, spanning across entertainment, health, and risk/strategic communication, where I seek to explore how emerging media technologies affect human behavior and how we can strategically manipulate its use to improve society's physical, mental, and social well-being.
 

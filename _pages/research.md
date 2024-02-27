@@ -43,9 +43,9 @@ author_profile: true
                                                               
 **Research in Progress**
 
-[8] Merill Jr, K., **Mikkilineni, S.**, & Dehnert, M [tentative title]. Application of EPPM to human-machine communication. 
+[8] Merill Jr, K., **Mikkilineni, S.**, & Denhert, M [tentative title]. Application of EPPM to human-machine communication. 
 
-[7] Merill Jr, K., **Mikkilineni, S.**, & Dehnert, M [tentative title]. Application of person-centeredness framework to human-machine communication. 
+[7] Merill Jr, K., **Mikkilineni, S.**, & Denhert, M [tentative title]. Application of person-centeredness framework to human-machine communication. 
                    
 [6] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.         
 

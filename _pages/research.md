@@ -27,7 +27,9 @@ author_profile: true
 
 **Works Under Review**
 
-[2] **Mikkilineni, S.**, Huang, M., & Lee, J. [TITLE BLINDED]. Under review at _New Media & Society_. 
+[3] Kim, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at Journal of Advertising. 
+
+[2] **Mikkilineni, S.**, Huang, M., & Lee, J. [TITLE BLINDED]. Revise & resubmit at _New Media & Society_. 
 
 [1] Hoewe, J., Jackson, D., **Mikkilineni, S.**, Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Revise & Resubmit at _Journal of Media Psychology_.
 
@@ -40,10 +42,14 @@ author_profile: true
 
                                                               
 **Research in Progress**
+
+[8] Merill Jr, K., **Mikkilineni, S.**, & Dehnert, M [tentative title]. Application of EPPM to human-machine communication. 
+
+[7] Merill Jr, K., **Mikkilineni, S.**, & Dehnert, M [tentative title]. Application of person-centeredness framework to human-machine communication. 
                    
 [6] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.         
 
-[5] Lee, J., **Mikkilineni, S.,** & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [data collection stage]
+[5] **Mikkilineni, S.**, Lee, J., & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [data collection stage]
 
 [4] Lee, J., & **Mikkilineni, S.** Are deepfakes more powerful in the metaverse? The role of social presence on deepfake processing. [manuscript writing stage]
 
@@ -55,7 +61,9 @@ author_profile: true
 
 **Peer-Reviewed Conference Presentations**
 
-[15] Kim, J., & **Mikkilineni, S.**(Under review). [TITLE BLINDED]. Paper submitted to the annual conference of the American Association of Advertising, Portland, OR.
+[16] Lee, J, & **Mikkilineni, S** (_Accepted_]. _Social viewing deepfake in virtual environments: How social viewing deepfake affects misperception through perceived realism and attention allocation_. Paper to be presented at the annual conference of the International XR-Metaverse Conference, Busan, South Korea.
+
+[15] Kim, J., & **Mikkilineni, S.**. [_Accepted_]. _Enhancing hotel promotion effectiveness through virtual reality: Applying construal level theory to reduce psychological distance_. Paper to be presented at the annual conference of the American Association of Advertising, Portland, OR.
 
 [14] **Mikkilineni, S.**,* Huang, M.,*  Lee, J., & Duboise, M. (2023). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the Association for Education in Journalism & Mass Communication, Washington, DC.
 
@@ -83,7 +91,6 @@ author_profile: true
 
 [2] Ash, E., Schulenberg, K., Wilson, M., & **Mikkilineni, S.** (2021). _Framing risk and responsibility: Newspaper coverage of COVID-19 racial disparities_. Paper presented at the annual conference of the International Communication Association. [Online due to COVID-19]
 ​
-
 [1] Cranmer, G. A., Ash, E., Fontana, J., & **Mikkilineni, S.** (2020). _Communication for the win: Task benefits of coach confirmation in collegiate athletics_. Paper presented at the annual conference of the National Communication Association. [Online due to COVID-19]
 
 

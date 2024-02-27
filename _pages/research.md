@@ -61,7 +61,7 @@ author_profile: true
 
 **Peer-Reviewed Conference Presentations**
 
-[16] Lee, J, & **Mikkilineni, S** (_Accepted_]. _Social viewing deepfake in virtual environments: How social viewing deepfake affects misperception through perceived realism and attention allocation_. Paper to be presented at the annual conference of the International XR-Metaverse Conference, Busan, South Korea.
+[16] Lee, J, & **Mikkilineni, S** [_Accepted_]. _Social viewing deepfake in virtual environments: How social viewing deepfake affects misperception through perceived realism and attention allocation_. Paper to be presented at the annual conference of the International XR-Metaverse Conference, Busan, South Korea.
 
 [15] Kim, J., & **Mikkilineni, S.**. [_Accepted_]. _Enhancing hotel promotion effectiveness through virtual reality: Applying construal level theory to reduce psychological distance_. Paper to be presented at the annual conference of the American Association of Advertising, Portland, OR.
 

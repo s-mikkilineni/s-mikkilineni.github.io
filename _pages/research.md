@@ -31,12 +31,12 @@ author_profile: true
 
 [2] **Mikkilineni, S.**, Huang, M., & Lee, J. [TITLE BLINDED]. Revise & resubmit at _New Media & Society_. 
 
-[1] Hoewe, J., Jackson, D., **Mikkilineni, S.**, Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Revise & Resubmit at _Journal of Media Psychology_.
+[1] Hoewe, J., Jackson, D., **Mikkilineni, S.**, Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Under review at _Human Communication Research_.
 
 
 **Book Chapters**
 
-[2] Lee, J., **Mikkilineni, S.**, & Lee, E. (under review). Emerging media, emotions, and misperceptions in health crises. In K. Wright (Ed.), _Communicating About Science During Crisis Events in the Age of Social Media and Misinformation: Identifying, Analyzing, and Correcting Misinformation_. Wiley.
+[2] Lee, J., **Mikkilineni, S.**, & Lee, E. (In Print). Emerging media, emotions, and misperceptions in health crises. In K. Wright (Ed.), _Communicating About Science During Crisis Events in the Age of Social Media and Misinformation: Identifying, Analyzing, and Correcting Misinformation_. Wiley.
 
 [1] Cranmer, G. A., Rey. K., & **Mikkilineni, S.** (2022). Coach-athlete communication and implications for health. In J. Sanderson & M. Weathers (Eds.), _Health Communication and Sport: Connections, Applications, and Opportunities_. Rowman & Littlefield.
 

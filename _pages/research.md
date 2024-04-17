@@ -27,7 +27,9 @@ author_profile: true
 
 **Works Under Review**
 
-[3] Kim, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at Journal of Advertising. 
+[4] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. Under review at _Journal of Broadcasting & Electronic Media_.
+
+[3] Kim, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at _Journal of Advertising._ 
 
 [2] **Mikkilineni, S.**, Huang, M., & Lee, J. [TITLE BLINDED]. Revise & resubmit at _New Media & Society_. 
 
@@ -43,27 +45,26 @@ author_profile: true
                                                               
 **Research in Progress**
 
-[8] Merill Jr, K., **Mikkilineni, S.**, & Denhert, M [tentative title]. Application of EPPM to human-machine communication. 
+[7] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi-dimensional constructs of presence and empathy. [data collection stage]
 
-[7] Merill Jr, K., **Mikkilineni, S.**, & Denhert, M [tentative title]. Application of person-centeredness framework to human-machine communication. 
-                   
-[6] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. [journal submission stage] - This manuscript examines the role of artificial intelligence-generated ads on heuristic processes and advertising-relavant outcomes.         
+[6] **Mikkilineni, S.**, Merill Jr, K., & Denhert, M [tentative title]. Application of EPPM to human-machine communication. [proposal stage] 
 
-[5] **Mikkilineni, S.**, Lee, J., & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [data collection stage]
+[5] Merill Jr, K., **Mikkilineni, S.**, & Denhert, M [tentative title]. Application of person-centeredness framework to human-machine communication. [proposal stage]
+                        
+[4] **Mikkilineni, S.**, Lee, J., & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [manuscript preparation stage]
 
-[4] Lee, J., & **Mikkilineni, S.** Are deepfakes more powerful in the metaverse? The role of social presence on deepfake processing. [manuscript writing stage]
+[3] Lee, J., & **Mikkilineni, S.** Are deepfakes more powerful in the metaverse? The role of social presence on deepfake processing. [manuscript writing stage]
 
-[3] **​Mikkilineni, S.** & Huang, M. What makes an Artificial Intelligence-Influencer persuasive? Effect of relational characteristics and influencer attributes on the perceptions of credibility and authenticity [manuscript writing stage]
+[2] **​Mikkilineni, S.** & Huang, M. What makes an Artificial Intelligence-Influencer persuasive? Effect of relational characteristics and influencer attributes on the perceptions of credibility and authenticity [manuscript writing stage]
 
-[2] **Mikkilineni, S.** Does virtual reality increase cognitive elaboration? Examining the role of virtual reality in shaping political behaviour. [proposal stage]
+[1] **Mikkilineni, S.** Does virtual reality increase cognitive elaboration? Examining the role of virtual reality in shaping political behaviour. [proposal stage]
 
-[1] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi-dimensional constructs of presence and empathy. [proposal stage]
 
 **Peer-Reviewed Conference Presentations**
 
 [16] Lee, J, & **Mikkilineni, S** [_Accepted_]. _Social viewing deepfake in virtual environments: How social viewing deepfake affects misperception through perceived realism and attention allocation_. Paper to be presented at the annual conference of the International XR-Metaverse Conference, Busan, South Korea.
 
-[15] Kim, J., & **Mikkilineni, S.**. [_Accepted_]. _Enhancing hotel promotion effectiveness through virtual reality: Applying construal level theory to reduce psychological distance_. Paper to be presented at the annual conference of the American Association of Advertising, Portland, OR.
+[15] Kim, J., & **Mikkilineni, S.**. [2024]. _Enhancing hotel promotion effectiveness through virtual reality: Applying construal level theory to reduce psychological distance_. Paper presented at the annual conference of the American Association of Advertising, Portland, OR.
 
 [14] **Mikkilineni, S.**,* Huang, M.,*  Lee, J., & Duboise, M. (2023). [TITLE BLINDED FOR PEER-REVIEW AT A JOURNAL]. Paper presented at the annual conference of the Association for Education in Journalism & Mass Communication, Washington, DC.
 

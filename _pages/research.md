@@ -9,7 +9,7 @@ author_profile: true
 **Peer-Reviewed Journal Articles**
 
 [9] Huang, M. *, **Mikkilineni, S.** *, Lee, J., & Duboise, M. (In Press). The effects of augmented reality on prosocial behavior intentions in the disaster news context: The mediating role of physical presence and empathy. _New Media & Society_.
-[***co-first authors**]
+ [***co-first authors**]
 
 [8] Billings, A. C., & **Mikkilineni, S.** (2023). The next best thing: How media dependency and uses and gratifications inform esport fandom during the COVID-19 pandemic. _American Behavioral Scientist, 67_(10). [https://doi.org/10.1177/00027642221118277](https://journals.sagepub.com/doi/10.1177/00027642221118277)
 

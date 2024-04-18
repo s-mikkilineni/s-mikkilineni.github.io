@@ -8,6 +8,9 @@ author_profile: true
 
 **Peer-Reviewed Journal Articles**
 
+[9] Huang, M. ^, **Mikkilineni, S.** ^, , & Lee, J., Duboise, M. (In Press). The effects of augmented reality on prosocial behavior intentions in the disaster news context: The mediating role of physical presence and empathy. _New Media & Society_.
+^ co-first authors
+
 [8] Billings, A. C., & **Mikkilineni, S.** (2023). The next best thing: How media dependency and uses and gratifications inform esport fandom during the COVID-19 pandemic. _American Behavioral Scientist, 67_(10). [https://doi.org/10.1177/00027642221118277](https://journals.sagepub.com/doi/10.1177/00027642221118277)
 
 [7] **Mikkilineni, S.**, Billings, A. C., Brown, K., & Vegas, X. R. (2023). The role of team and social identity in parasocial relationships and parasocial breakups: Lionel Messi’s departure from FC Barcelona. _International Journal of Communication_. ​[Link](https://ijoc.org/index.php/ijoc/article/view/20168/4258)
@@ -27,11 +30,9 @@ author_profile: true
 
 **Works Under Review**
 
-[4] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. Under review at _Journal of Broadcasting & Electronic Media_.
+[3] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. Under review at _Journal of Broadcasting & Electronic Media_.
 
-[3] Kim, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at _Journal of Advertising._ 
-
-[2] **Mikkilineni, S.**, Huang, M., & Lee, J. [TITLE BLINDED]. Revise & resubmit at _New Media & Society_. 
+[2] Kim, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at _Journal of Advertising._ 
 
 [1] Hoewe, J., Jackson, D., **Mikkilineni, S.**, Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Under review at _Human Communication Research_.
 

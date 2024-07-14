@@ -30,9 +30,11 @@ author_profile: true
 
 **Works Under Review**
 
+[4] Lee, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at __Journal of Computer-Mediated Communication_.
+
 [3] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. Under review at _Journal of Broadcasting & Electronic Media_.
 
-[2] Kim, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at _Journal of Advertising._ 
+[2] Kim, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at _Journal of Advertising_. 
 
 [1] Hoewe, J., Jackson, D., **Mikkilineni, S.**, Baldawala, C., & Ewoldsen, D. [TITLE BLINDED]. Under review at _Human Communication Research_.
 
@@ -46,15 +48,15 @@ author_profile: true
                                                               
 **Research in Progress**
 
-[7] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi-dimensional constructs of presence and empathy. [data collection stage]
+[7] **Mikkilineni, S.**, Kim, J., & Lee, J. Is embodiment related to altruism? Role of immersive media technologies in elevating altruistic intentions toward individuals with bipolar disorder via multi-dimensional constructs of presence and empathy. [manuscript writing stage]
 
 [6] **Mikkilineni, S.**, Merill Jr, K., & Denhert, M [tentative title]. Application of EPPM to human-machine communication. [proposal stage] 
 
 [5] Merill Jr, K., **Mikkilineni, S.**, & Denhert, M [tentative title]. Application of person-centeredness framework to human-machine communication. [proposal stage]
                         
-[4] **Mikkilineni, S.**, Lee, J., & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [manuscript preparation stage]
+[4] **Mikkilineni, S.**, Lee, J., & Lee, J. [tentative title] Misinformation in the metaverse: The role of agency and natural conversations on perceptions of credibility. [manuscript writing stage]
 
-[3] Lee, J., & **Mikkilineni, S.** Are deepfakes more powerful in the metaverse? The role of social presence on deepfake processing. [manuscript writing stage]
+[3] **Mikkilineni, S.** & Lee, J. Conservatives are more susceptible to deepfakes in immersive virtual environments. The mediating role of spatial presence and enjoyment. [manuscript writing stage]
 
 [2] **​Mikkilineni, S.** & Huang, M. What makes an Artificial Intelligence-Influencer persuasive? Effect of relational characteristics and influencer attributes on the perceptions of credibility and authenticity [manuscript writing stage]
 

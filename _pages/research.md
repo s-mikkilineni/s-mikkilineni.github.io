@@ -30,7 +30,7 @@ author_profile: true
 
 **Works Under Review**
 
-[4] Lee, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at __Journal of Computer-Mediated Communication_.
+[4] Lee, J., & **Mikkilineni, S.** [TITLE BLINDED]. Under review at _Journal of Computer-Mediated Communication_.
 
 [3] **Mikkilineni, S.**, & Ki, EJ. [TITLE BLINDED]. Under review at _Journal of Broadcasting & Electronic Media_.
 
